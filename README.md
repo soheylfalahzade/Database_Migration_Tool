@@ -1,2 +1,7 @@
-# Database_Migration_Tool
-Robust ETL tool for migrating and synchronizing data between different database formats (Excel to SQL)
+# Database Migration Tool
+Automating the Extract, Transform, Load (ETL) process for legacy data systems.
+
+## Capabilities
+- Converts unstructured Excel/CSV to structured SQL.
+- Data validation and cleaning during migration.
+- Support for SQLite and PostgreSQL.
